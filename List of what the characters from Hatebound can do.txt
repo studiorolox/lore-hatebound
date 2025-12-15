@@ -1,4 +1,8 @@
 BEFORE READING, KEEP IN MIND THAT FORMS HAVE ALL THE PREVIOUS FORMS ABILITIES TOO, THIS WORKS LIKE IF U TRIGGER A FORM, ITS ANCESTOR FORMS ATTACKS WILL ALSO BE CURRENT AND CAN BE USED BY THE TRANSFORMED PERSON.
+(for example:
+wind form: blasts and stuff
+awakened wind form: blasts and stuff + awakened wind form abilities
+)
 
 
 
@@ -500,6 +504,7 @@ Sharp Electricity: puts hit palm on to somewhere and creates a zig-zag electrici
 Thunder Burn: makes a hand symbol can be anything but the pointy finger MUST aim at the opponent) and then applies a small thunder from the pointy finger to the opponent that doesnt harm by itself but causes a burn or some fire that hurts afterwards. "Bang."
 
 Kinetic Absorption: puts both arms forward and both hands glued to each other (no effects by the way, just for the looks) and applies a long-lasting lighning right from the palms of the hands to the coming energy from a projectile. the lightning absorbs the energy coming from that projectile, sometimes even changing the trajectory of the projectile.
+
 
 
 
